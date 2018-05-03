@@ -4,3 +4,5 @@ Commandes basiques sur Git
 pwd	connaitre le répertoire courant
 ls	voir la liste des fichiers et répertoires dans le dossier courant	
 ls -l	affichage sous forme de liste
+ls -a /ls -l -a ou ls -la	plus d’informations sur les éléments
+cd	permet de se placer dans un répertoire/ revenir au répertoire parent
