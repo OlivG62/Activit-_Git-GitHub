@@ -1,0 +1,5 @@
+Commandes basiques sur Git
+
+
+pwd	connaitre le répertoire courant
+ls	voir la liste des fichiers et répertoires dans le dossier courant	
